@@ -1,0 +1,408 @@
+{
+  "brand": "OJJM Hire",
+  "tagline": "Hire that turns up level.",
+  "area": "Fremantle & south metro \u00b7 WA",
+  "categories": [
+    {
+      "key": "earthmoving",
+      "label": "Earthmoving"
+    },
+    {
+      "key": "access-height",
+      "label": "Access"
+    },
+    {
+      "key": "concrete-compaction",
+      "label": "Concrete"
+    },
+    {
+      "key": "survey-levels",
+      "label": "Survey"
+    },
+    {
+      "key": "power-lighting",
+      "label": "Power"
+    },
+    {
+      "key": "cranes-lifting",
+      "label": "Cranes"
+    }
+  ],
+  "products": [
+    {
+      "handle": "dumpy-level-kit",
+      "title": "Dumpy level kit",
+      "type": "Survey & levels",
+      "category": "survey-levels",
+      "badge": "Survey",
+      "image": "cat-survey-levels.jpg",
+      "tags": [
+        "Survey",
+        "Ready this week",
+        "survey-levels"
+      ],
+      "body": "Yard hire \u2014 return in good order. Choose a hire period and start date before adding to your cart.",
+      "variants": [
+        {
+          "label": "1 day",
+          "price": 88.0
+        },
+        {
+          "label": "3 days",
+          "price": 198.0
+        },
+        {
+          "label": "1 week",
+          "price": 275.0
+        }
+      ],
+      "ready": true
+    },
+    {
+      "handle": "rotary-laser-kit",
+      "title": "Rotary laser kit",
+      "type": "Survey & levels",
+      "category": "survey-levels",
+      "badge": "Survey",
+      "image": "cat-survey-levels.jpg",
+      "tags": [
+        "Survey",
+        "survey-levels"
+      ],
+      "body": "Yard hire \u2014 return in good order. Choose a hire period and start date before adding to your cart.",
+      "variants": [
+        {
+          "label": "1 day",
+          "price": 110.0
+        },
+        {
+          "label": "3 days",
+          "price": 250.0
+        },
+        {
+          "label": "1 week",
+          "price": 330.0
+        }
+      ],
+      "ready": false
+    },
+    {
+      "handle": "line-laser-green",
+      "title": "Line laser \u00b7 green",
+      "type": "Survey & levels",
+      "category": "survey-levels",
+      "badge": "Survey",
+      "image": "cat-survey-levels.jpg",
+      "tags": [
+        "Survey",
+        "survey-levels"
+      ],
+      "body": "Yard hire \u2014 return in good order. Choose a hire period and start date before adding to your cart.",
+      "variants": [
+        {
+          "label": "1 day",
+          "price": 55.0
+        },
+        {
+          "label": "3 days",
+          "price": 140.0
+        },
+        {
+          "label": "1 week",
+          "price": 185.0
+        }
+      ],
+      "ready": false
+    },
+    {
+      "handle": "auto-level-32x",
+      "title": "Auto level \u00b7 32\u00d7",
+      "type": "Survey & levels",
+      "category": "survey-levels",
+      "badge": "Survey",
+      "image": "cat-survey-levels.jpg",
+      "tags": [
+        "Survey",
+        "survey-levels"
+      ],
+      "body": "Yard hire \u2014 return in good order. Choose a hire period and start date before adding to your cart.",
+      "variants": [
+        {
+          "label": "1 day",
+          "price": 70.0
+        },
+        {
+          "label": "3 days",
+          "price": 165.0
+        },
+        {
+          "label": "1 week",
+          "price": 220.0
+        }
+      ],
+      "ready": false
+    },
+    {
+      "handle": "staff-5m-aluminium",
+      "title": "5 m staff \u00b7 aluminium",
+      "type": "Survey & levels",
+      "category": "survey-levels",
+      "badge": "Survey",
+      "image": "cat-survey-levels.jpg",
+      "tags": [
+        "Survey",
+        "survey-levels"
+      ],
+      "body": "Yard hire \u2014 return in good order. Choose a hire period and start date before adding to your cart.",
+      "variants": [
+        {
+          "label": "1 day",
+          "price": 25.0
+        },
+        {
+          "label": "3 days",
+          "price": 60.0
+        },
+        {
+          "label": "1 week",
+          "price": 80.0
+        }
+      ],
+      "ready": false
+    },
+    {
+      "handle": "tripod-heavy-duty",
+      "title": "Tripod \u00b7 heavy duty",
+      "type": "Survey & levels",
+      "category": "survey-levels",
+      "badge": "Survey",
+      "image": "cat-survey-levels.jpg",
+      "tags": [
+        "Survey",
+        "survey-levels"
+      ],
+      "body": "Yard hire \u2014 return in good order. Choose a hire period and start date before adding to your cart.",
+      "variants": [
+        {
+          "label": "1 day",
+          "price": 30.0
+        },
+        {
+          "label": "3 days",
+          "price": 75.0
+        },
+        {
+          "label": "1 week",
+          "price": 95.0
+        }
+      ],
+      "ready": false
+    },
+    {
+      "handle": "scissor-lift-19ft",
+      "title": "19ft scissor lift",
+      "type": "Access & height",
+      "category": "access-height",
+      "badge": "Access",
+      "image": "cat-access-height.jpg",
+      "tags": [
+        "Access",
+        "Ready this week",
+        "access-height"
+      ],
+      "body": "Yard hire \u2014 return in good order. Choose a hire period and start date before adding to your cart.",
+      "variants": [
+        {
+          "label": "1 day",
+          "price": 185.0
+        },
+        {
+          "label": "3 days",
+          "price": 420.0
+        },
+        {
+          "label": "1 week",
+          "price": 555.0
+        }
+      ],
+      "ready": true
+    },
+    {
+      "handle": "boom-lift-45ft",
+      "title": "45ft boom lift",
+      "type": "Access & height",
+      "category": "access-height",
+      "badge": "Access",
+      "image": "cat-access-height.jpg",
+      "tags": [
+        "Access",
+        "access-height"
+      ],
+      "body": "Yard hire \u2014 return in good order. Choose a hire period and start date before adding to your cart.",
+      "variants": [
+        {
+          "label": "1 day",
+          "price": 320.0
+        },
+        {
+          "label": "3 days",
+          "price": 780.0
+        },
+        {
+          "label": "1 week",
+          "price": 980.0
+        }
+      ],
+      "ready": false
+    },
+    {
+      "handle": "genset-10kva-silent",
+      "title": "10 kVA silent genset",
+      "type": "Power & lighting",
+      "category": "power-lighting",
+      "badge": "Power",
+      "image": "cat-power-lighting.jpg",
+      "tags": [
+        "Power",
+        "Ready this week",
+        "power-lighting"
+      ],
+      "body": "Yard hire \u2014 return in good order. Choose a hire period and start date before adding to your cart.",
+      "variants": [
+        {
+          "label": "1 day",
+          "price": 120.0
+        },
+        {
+          "label": "3 days",
+          "price": 280.0
+        },
+        {
+          "label": "1 week",
+          "price": 360.0
+        }
+      ],
+      "ready": true
+    },
+    {
+      "handle": "led-tower-light",
+      "title": "LED tower light",
+      "type": "Power & lighting",
+      "category": "power-lighting",
+      "badge": "Power",
+      "image": "cat-power-lighting.jpg",
+      "tags": [
+        "Power",
+        "power-lighting"
+      ],
+      "body": "Yard hire \u2014 return in good order. Choose a hire period and start date before adding to your cart.",
+      "variants": [
+        {
+          "label": "1 day",
+          "price": 95.0
+        },
+        {
+          "label": "3 days",
+          "price": 220.0
+        },
+        {
+          "label": "1 week",
+          "price": 290.0
+        }
+      ],
+      "ready": false
+    },
+    {
+      "handle": "mini-excavator-1-7t",
+      "title": "Mini excavator 1.7t",
+      "type": "Earthmoving",
+      "category": "earthmoving",
+      "badge": "Earthmoving",
+      "image": "cat-earthmoving.jpg",
+      "tags": [
+        "Earthmoving",
+        "earthmoving"
+      ],
+      "body": "Yard hire \u2014 return in good order. Choose a hire period and start date before adding to your cart.",
+      "variants": [
+        {
+          "label": "1 day",
+          "price": 280.0
+        },
+        {
+          "label": "3 days",
+          "price": 690.0
+        },
+        {
+          "label": "1 week",
+          "price": 890.0
+        }
+      ],
+      "ready": false
+    },
+    {
+      "handle": "plate-compactor",
+      "title": "Plate compactor",
+      "type": "Concrete & compaction",
+      "category": "concrete-compaction",
+      "badge": "Concrete",
+      "image": "cat-concrete-compaction.jpg",
+      "tags": [
+        "Concrete",
+        "concrete-compaction"
+      ],
+      "body": "Yard hire \u2014 return in good order. Choose a hire period and start date before adding to your cart.",
+      "variants": [
+        {
+          "label": "1 day",
+          "price": 65.0
+        },
+        {
+          "label": "3 days",
+          "price": 150.0
+        },
+        {
+          "label": "1 week",
+          "price": 195.0
+        }
+      ],
+      "ready": false
+    },
+    {
+      "handle": "spider-crane-3t",
+      "title": "Spider crane 3t",
+      "type": "Cranes & lifting",
+      "category": "cranes-lifting",
+      "badge": "Cranes",
+      "image": "cat-cranes-lifting.jpg",
+      "tags": [
+        "Cranes",
+        "cranes-lifting"
+      ],
+      "body": "Yard hire \u2014 return in good order. Choose a hire period and start date before adding to your cart.",
+      "variants": [
+        {
+          "label": "1 day",
+          "price": 450.0
+        },
+        {
+          "label": "3 days",
+          "price": 1100.0
+        },
+        {
+          "label": "1 week",
+          "price": 1450.0
+        }
+      ],
+      "ready": false
+    }
+  ],
+  "bond": {
+    "handle": "refundable-bond-ojjm-kit",
+    "title": "Refundable bond \u00b7 OJJM kit",
+    "price": 250.0,
+    "image": "cat-bond-general.jpg",
+    "badge": "Bond",
+    "body": "Refundable after the gear is back in good order."
+  }
+}
