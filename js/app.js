@@ -79,8 +79,14 @@ export function applyThemeToggle() {
   const root = document.documentElement;
   const key = 'ojjm-theme';
   const saved = localStorage.getItem(key) || 'system';
+  function resolveScheme(mode) {
+    if (mode === 'light') return 'light';
+    if (mode === 'dark') return 'dark';
+    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  }
   function apply(mode) {
     root.setAttribute('data-theme', mode);
+    root.style.colorScheme = resolveScheme(mode);
     document.querySelectorAll('[data-theme-btn]').forEach((btn) => {
       btn.setAttribute('aria-pressed', String(btn.getAttribute('data-theme-btn') === mode));
     });
